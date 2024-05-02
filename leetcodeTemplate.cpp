@@ -1,9 +1,8 @@
-//LeetCode UserName: SayedNahid
-
 #include<bits/stdc++.h>
 using namespace std;
 
-//Problem-
+//LeetCode UserName: SayedNahid
+//Problem-2000: Reverse Prefix of Word
 
 
 int main(){
