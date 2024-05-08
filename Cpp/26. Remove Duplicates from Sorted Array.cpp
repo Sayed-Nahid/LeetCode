@@ -2,7 +2,7 @@
 using namespace std;
 
 //LeetCode UserName: SayedNahid
-//Problem-2000: Reverse Prefix of Word
+//Problem: 26. Remove Duplicates from Sorted Array
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
